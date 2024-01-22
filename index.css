@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 80px;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-size: 2rem;
+    
+    font-family: "Coming Soon", cursive;
+    font-weight: 400;
+    font-style: normal;
+      
+      
+}
+span{
+    color: white;
+}
+#container{
+    padding: 80px;
+    background-color: #322e2e;
+    border-radius: 20px;
+    
+}
+.img{
+    
+    border-radius: 10px;
+    width: 200px;
+    height: 140px;
+    display: block; margin: auto; 
+    box-shadow: 1px 10px 200px 40px red;
+    
+}
+
+h6{
+    color: white;
+    text-align: center;
+}
+h4{
+    color: red;
+    font-family: "Coming Soon", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.end{
+    text-align: center;
+}
+.film{
+    padding: 20px;
+}
+b{
+    color: black;
+
+}
+a{
+    text-decoration: none;
+}
